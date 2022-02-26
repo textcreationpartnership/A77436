@@ -1,0 +1,467 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[A brief e]xhort[ation], with the means to [promote] pie[ty] especially directed to th[e] [...] of London. / By a lover thereof, a[nd] of all sincere Christians.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77436</idno>
+            <idno type="STC">Wing B4591aA</idno>
+            <idno type="STC">ESTC R176327</idno>
+            <idno type="EEBO-CITATION">45504353</idno>
+            <idno type="OCLC">ocm 45504353</idno>
+            <idno type="VID">171653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2584:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[A brief e]xhort[ation], with the means to [promote] pie[ty] especially directed to th[e] [...] of London. / By a lover thereof, a[nd] of all sincere Christians.</title>
+               </titleStmt>
+               <extent>29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by J.C. under St. Katherine Cree-Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: mutiliated.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayer --  England --  London --  Early works to 1800.</term>
+               <term>Piety --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171653:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> EXHORTATION With the means to promote PIETY Eſpecially Directed to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> OF LONDON.</p>
+            <p>By a lover thereof, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all ſincere Chriſtians.</p>
+            <q>
+               <bibl>
+                  <hi>Ezra. 9.13, 14.</hi>
+               </bibl>
+               <p>And after all that is come upon us for our evill deeds, and for our great treſpaſs, ſeeing that thou our God haſt puniſhed us leſs than our iniquities deſerve, and haſt given us ſuch deliverance as this;</p>
+               <p>Should we again break thy Commandments, and joyn in affinity with the people of theſe abo<g ref="char:EOLhyphen"/>minations? wouldeſt not thou be angry with us, till thou hadſt conſumed us, ſo that there ſhould be no remnant nor eſcaping?</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed and are to be ſold by <hi>J. C.</hi> under St. <hi>Katherine Cree-Church.</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171653:2"/>
+            <pb facs="tcp:171653:2"/>
+            <head>A Brief EXHORTATION With the means to promote PIETY, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hatſoever might be the inſtru<g ref="char:EOLhyphen"/>mental, yet there is not (I pre<g ref="char:EOLhyphen"/>ſume) any among us ſo void of reaſon, or Religion but will acknowledg, that the Great God of Heaven and Earth, the judge of the whole World being provoked by the multi<g ref="char:EOLhyphen"/>tude and greatneſs of our iniquities, was the principal efficient cauſe, both of the begin<g ref="char:EOLhyphen"/>ning and continuance of that dreadful Fire,
+<pb facs="tcp:171653:3"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the greateſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that poſſibly could be <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reſiſt, or aſſwage, till it <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the chiefeſt, and greateſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> famous, and flouriſhing Ci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we ſtill break the Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God? would he not (as <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſaid to the <hi>Jews,</hi> at the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their <hi>Temple,</hi> and <hi>Jeruſalem</hi> then <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) be angry with us, till he had <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> us, (and or City;) ſo that there ſhould be no remnant, nor eſcaping? yea, ſhall we not deſerve, and may we not juſtly expect, that as the puniſhment of the iniquity of <hi>Jeruſalem</hi> was greater, than the puniſhment of the ſin of <hi>Sodom:</hi> So the pu<g ref="char:EOLhyphen"/>niſhment of the wickedneſs, of our rebuilt <hi>London</hi> ſhould be greater, than the puniſh<g ref="char:EOLhyphen"/>ment of the iniquity not only of the former, but alſo of the latter <hi>Jeruſalem,</hi> which was utterly demol ſhed, ſo that there was no rem<g ref="char:EOLhyphen"/>nant, nor eſcaping? and if ſo, than what per<g ref="char:EOLhyphen"/>ſon, that hath but the leaſt ſpark of Reaſon, doth not plainly ſee, that for our future ſecu<g ref="char:EOLhyphen"/>rity, we ought to be farr more concerned in the new modelling of our lives, than our Ci<g ref="char:EOLhyphen"/>ty? and that we ſhould be farr more careful, that this <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tter City ſhould exceed the for<g ref="char:EOLhyphen"/>mer, in pious and Religious Inhabitants, than
+<pb facs="tcp:171653:3"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſecure, and ſumptuous <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat perſon acquainted <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Reaſon, or common <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>petience, doth not manifeſtly ſee an impoſſibility of pro<g ref="char:EOLhyphen"/>moting Piety in our City or elſewhere, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>leſs the whole worſhip of God (which con<g ref="char:EOLhyphen"/>ſiſts not only in Prayers, but al<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing and reading the holy Scriptures, and in re<g ref="char:EOLhyphen"/>ceiving the holy Sacraments) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and conſtantly obſerved by us?</p>
+            <p>Wherefore in the name of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as all, that in the leaſt deſire the future wellfare, and proſperity of our New <hi>London,</hi> and the Inhabitants thereof, and that have any hopes after this life, to be made free Denizens of the New <hi>Jeruſalem</hi> which is from above: be exhorted and perſwaded with all conſtancy, for the future, ſeriouſly, and ſolemnly to perform all thoſe holy duties, which God re<g ref="char:EOLhyphen"/>quireth of us, either in Publick or Private.</p>
+            <p>And in the firſt place, Let us begin with the Duty of Prayer. Twice every day at leaſt, with all decent humility and reverence, mak<g ref="char:EOLhyphen"/>ing our addreſſes to the Throne of Grace, either in our own Pariſh-Churches, or elſe in our private Families, or Cloſets, wherein (as well as in our Churches,) without doubt, forms are farr more convenient and neceſſa<g ref="char:EOLhyphen"/>ry for us, than Extempory Prayers, and for our
+<pb facs="tcp:171653:4"/>ordinary <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> can be more ſuitable, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Publick <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yers.</p>
+            <p>As for thoſe that are againſt the admitting of Formes in general, or our Publick <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in particular into Families or Cloſets, I ſhall deſire them to conſider; That if they be againſt the admitting of Forms in general, it muſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> either by reaſon of the good con<g ref="char:EOLhyphen"/>ceit th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have of their own, and all other Peop<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s ability to perform this weighty Duty <hi>ex tempore,</hi> or elſe by reaſon of the ill opinion they have of Forms themſelves;</p>
+            <p>If by reaſon of their own, and other Peo<g ref="char:EOLhyphen"/>ples ability, I ſhall beſeech them ſeriouſly to Conſider, 1. That the Diſciples may be pre<g ref="char:EOLhyphen"/>ſumed to have had as good abilities, as they; and yet they deſired to be taught to pray, (as St. <hi>John's</hi> Diſciples were before them) and our Saviour thought good to reach them, not only the manner how to pray, but alſo the expreſs words, and phraſes of a Prayer; which he compoſed, not only for their uſe in Pub<g ref="char:EOLhyphen"/>lique, but alſo for their Private uſe in their Cloſets, that there alſo they might avoid Batrology. <hi>St. Mat.</hi> 6.6.</p>
+            <p>And our Saviour himſelf praying alone uſed Thrice the ſame words. And as learned and pious, both Martyts, and others, as ever the
+<pb n="5" facs="tcp:171653:4"/>Chriſtian World knew, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d uſed ſet Forms of Pray<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and have re<g ref="char:EOLhyphen"/>commended them as uſeful <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Chriſtian Brethren, as well <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rned, as unlearned, in Private as well as Pub<g ref="char:EOLhyphen"/>lique.</p>
+            <p n="2">
+               <hi>2ly.</hi> I ſhall deſire them ſeriouſly to con<g ref="char:EOLhyphen"/>ſider, what obſolete, lofty, obſcure, and ſometimes ridiculous words, and phraſes; What incongruous and impertinent ſence, if not non-ſence, yea, and ſometimes ſeditious and ſinful petitions have been heard even from thoſe, that have been counted gifted extemporiſts; How often they have been ſubject to miſtakes, or non-pluſſes, either pal<g ref="char:EOLhyphen"/>pable, or leſs obſervable; whoſe hiatus's have been filled up with a multitude of vain tauto<g ref="char:EOLhyphen"/>logies, which (though to ſome either not un<g ref="char:EOLhyphen"/>derſtanding, or not obſerving their ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they might ſeem to be the fervent ejaculations of a devout Spirit, yet,) have been very little or nothing at all taken notice of by the extem<g ref="char:EOLhyphen"/>poriſts, whoſe thoughts have all that while been earneſtly buſied, either in recovering what they have loſt, or in purſuing after ſome new matter for the prolongation of their Prayers; How many by reaſon of the mul<g ref="char:EOLhyphen"/>titude of diſaſters which they have known to befal extemporiſts, have with very much un<g ref="char:EOLhyphen"/>willingneſs,
+<pb n="6" facs="tcp:171653:5"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reluctancy been brought to began, and a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they have begun, have been poſſeſt with ſu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>anick fears, that inſtead of being devout, notice <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rious, either with an heart<g ref="char:EOLhyphen"/>leſs, and ſenſel is trembling, and much difficulty they have approached, or with an inconſiderate, and raſh precipitancy they have poſted to their much deſired concluſion, ſcarce remembring how they began, went on, or came thither; yea, they have profeſſed after<g ref="char:EOLhyphen"/>wards, that they were glad, that their pain was over, and that they eſcaped ſo well; ſo that this holy duty which ſhould be perfor<g ref="char:EOLhyphen"/>med with the greateſt delight, is by this means become a great burthen, and pain.</p>
+            <p>Laſtly, how many even of thoſe, which by great diligence, and long practice, have over<g ref="char:EOLhyphen"/>come moſt, or (if it be poſſible) all of theſe difficulties, either by ſeeking variety of words the ſhadow, to avoid the ſuſpition of a for<g ref="char:EOLhyphen"/>maliſt, have been forc't to take leſs notice of the matter, which is the ſubſtance of Prayer; or elſe, by too high conceits of their own abi<g ref="char:EOLhyphen"/>lities, beyond the reſt of their Brethren, have rendred both themſelves, and their Prayers <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dious not only to God, but alſo to their au<g ref="char:EOLhyphen"/>ditors; when it hath been diſcerned by them, which hath too often come to paſs.</p>
+            <p n="3">3. I ſhall deſire them ſeriouſly to conſi<g ref="char:EOLhyphen"/>der,
+<pb n="7" facs="tcp:171653:5"/>what a multitude of <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nilies there have been, wherein there <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> been any, which have had either the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ity, or confi<g ref="char:EOLhyphen"/>dence to pray, <hi>ex tempore</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> how many of them, which have ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the ability, and confidence to pray before their own Families upon the viſiting of Friends, or ſuch like ſmall excuſes have often omitted this duty for ſeve<g ref="char:EOLhyphen"/>ral daies together, to the great damage of their Families. And how many Families upon the abſence, ſickneſs, or death of ſuch perſons have for want of Forms, lived pray<g ref="char:EOLhyphen"/>erleſs for ſeveral weeks, or months, if not the greateſt part of their life; ſcarce uſing a grace before or after meat, whereby the Lord knows how many Families have been utterly ruined.</p>
+            <p>Moreover, I ſhall deſire them ſeriouſly to Conſider the inconveniencies, which many auditours of <hi>ex tempore</hi> Prayers, have been uſually expoſed to. 1. How oft very many of them, not underſtanding their obſcure words, phraſes, metaphorical expreſſions, <hi>&amp;c.</hi> have been forc't (as <hi>St. Paul</hi> long ſince ob<g ref="char:EOLhyphen"/>ſerved among the <hi>Corinthians,</hi> boaſting of their great gifts, and profound wiſdom, count<g ref="char:EOLhyphen"/>ing St. <hi>Paul's</hi> Preaching and Praying, mean and deſpicable, in compariſon of theirs) to return <hi>Barbarians,</hi> deprived of the priviledg
+<pb n="8" facs="tcp:171653:6"/>of ſending <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Heaven their hearty <hi>Amen</hi> to what they <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> heard. <hi>2ly.</hi> How oft ve<g ref="char:EOLhyphen"/>ry many, eit<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> liſtning after, or over curi<g ref="char:EOLhyphen"/>ouſly taking <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of their new words, phra<g ref="char:EOLhyphen"/>ſes, <hi>&amp;c.</hi> or el<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y reaſon of the extempo<g ref="char:EOLhyphen"/>riſt's apparent miſtakes, inadvertencies, fears, precipitances, <hi>&amp;c.</hi> have been very much hin<g ref="char:EOLhyphen"/>dred in their devotions, to their great damage, if not utter ruine of their immortal Souls. And after all theſe things <hi>ex tempore</hi> prayers are in every reſpect meer Forms to their au<g ref="char:EOLhyphen"/>ditors, their own phancy, and invention; yea, and the Spirit of God (which they ſuppoſe to dwell within them) being as much limited, or ſtinted to the words, phraſes, method, and matter of thoſe <hi>ex tempore</hi> Prayers, as to the words, phraſes, method, and matter of other Forms.</p>
+            <p n="2">
+               <hi>2ly.</hi> If by reaſon of the ill opinion they have of Forms themſelves, I ſhall deſire them ſeriouſly to Conſider; whether it be not a very unreaſonable, and ſinful thing to Ima<g ref="char:EOLhyphen"/>gine that God ſhould command the <hi>Jews</hi> to uſe Forms; that the Prophet <hi>David</hi> ſhould compoſe Forms for his own uſe, and the uſe of the Temple, That the Prophet <hi>Hoſea</hi> ſhould command all <hi>Iſrael</hi> to take words with them, when they confeſſed their ſins, and asked par<g ref="char:EOLhyphen"/>don for them. That our Saviour ſhould give
+<pb n="9" facs="tcp:171653:6"/>ſuch a compleat Form to his <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſciples upon their requeſt; that many thouſands of holy Martyrs, and devout Saints, ſhould from age to age conſtantly uſe our Saviours Form and make daily uſe of other Forms compoſed by themſelves or others, if they were not bene<g ref="char:EOLhyphen"/>ficial and neceſſary for us, and rather furthe<g ref="char:EOLhyphen"/>rances, than hinderances to our Devotion. And more over, I ſhall deſire them ſeriouſly to Conſider, whether we have not juſt cauſe to ſtand amazed at the inconſiderate pre<g ref="char:EOLhyphen"/>ſumption of thoſe, who with much conſidence endeavour to perſwade the People, that Forms do hinder the operation of Gods Spirit upon their hearts, whereas they never did, or could alledge any good reaſon, or plain proof of Scripture for this their confidence; But on the other ſide, not only St. <hi>James</hi> doth re<g ref="char:EOLhyphen"/>commend unto us in our mirth the ſinging of <hi>Pſalmes,</hi> which certainly he never would have done, had they been any cauſe of quenching the Spirit of God. But St. <hi>Paul Epheſ.</hi> 5.18, 19. doth tell us, that we ſhould be filled with the Spirit, ſpeaking to our ſelves in Pſalmes, and Hymns, and Spiritual Songs, ſinging and making melody in our hearts to the Lord; And moreover, St. <hi>John</hi> in his <hi>Revelations</hi> (Chap. 14.3. and 15.3. and elſe-where) endeavouring to Reveal unto
+<pb n="10" facs="tcp:171653:7"/>us the Spirit<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lights, Seraphical joys of the Heavenly Hoſts, before the Throne of the Lamb, could find no better thing to re<g ref="char:EOLhyphen"/>ſemble them to than thoſe Spiritual Raptures which the Saints here enjoy, in ſinging to their Heavenly Father. Now Pſalmes, when they are ſung, are double Formes, wherein we are bound to obſerve not only a juſt number of Syllables in every line, but alſo a more accu<g ref="char:EOLhyphen"/>rate, and difficult form of tunes, or ſoundes; and if the Spirit of God doth Manifeſt his moſt powerful operations in theſe, certainly it can't be imagined, that he hath leſs liberty to work upon our affections, when we are confin'd only to a Form of Words, which is farr the eaſier Form of the two.</p>
+            <p>If there be any, that can harden their hearts againſt the force of theſe Conſiderations.</p>
+            <p>O Bleſſed Jeſu! by thine Agony and Bloody Sweat, which thou didſt ſuffer in thoſe moſt fervent Prayers of thine, wherein thou didſt Thrice uſe the ſame words, do thou conſtrain them to confeſs, that often to uſe the ſame words in our Prayers doth rather promote, than hinder the fervency of a de<g ref="char:EOLhyphen"/>vout Soul, or the operations of the Spirit of Supplication.</p>
+            <p n="2">
+               <hi>2ly.</hi> If they, who are againſt our Publick Prayers, in particular, for the daily uſe of
+<pb n="11" facs="tcp:171653:7"/>Families, or private Perſons would but di<g ref="char:EOLhyphen"/>ligently peruſe them, and impartially com<g ref="char:EOLhyphen"/>pare them with their own or daily extempory Prayers of any other perſon, or with any other Printed Forms; I queſtion not, but they will be ſoon convinced, that whatſoever they do, or can daily ſay; the ſence thereof is plainly comprehended in our Publick<g ref="char:EOLhyphen"/>daily-Prayers; and conſequently, that (as I ſaid at firſt) none can be more ſuitable for our daily uſe than thoſe; Provided onely that Single or Particular Perſons uſe the Singular for the Plural Number, and inſtead of St. <hi>Chryſoſtom</hi>'s Prayer, they may uſe this Prayer in the Singular Number.</p>
+            <p>
+               <hi>Almighty God, who haſt promiſed to hear the petitions of them, that ask in thy Sons Name; I beſeech thee mercifully to incline thine ears to me that have made now my Pray<g ref="char:EOLhyphen"/>ers and ſupplications unto Thee! and grant that thoſe things which I have faithfully asked ac<g ref="char:EOLhyphen"/>cording to thy will, may effectually be obtained to the relief of my neceſſity, and to the ſetting forth of thy Glory: through Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p>Or any of the other Prayers after the Communion-Service.</p>
+            <pb n="12" facs="tcp:171653:8"/>
+            <p> The pronouncing of Abſolutions, and Benedictions Authoratively, God hath ap<g ref="char:EOLhyphen"/>propriated to the Miniſters of his Word, as their peculiar Prerogative; and therefore no other perſons either in Families or elſe-where ought to arrogate that Power unto them<g ref="char:EOLhyphen"/>ſelves; yet, I deny not, but that other perſons may uſe them in an Optative-way, deſiring God to pardon or bleſs either them<g ref="char:EOLhyphen"/>ſelves, children, or friends, <hi>&amp;c.</hi>
+            </p>
+            <p>Laſtly, for ſome extraordinary Caſes any private Family, or Perſon may frame or pro<g ref="char:EOLhyphen"/>cure ſuch ſet Forms as may be moſt ſuitable to their preſent condition, which they may uſe with their daily Prayers, as long as thoſe ſpecial emergencies laſt, according to the cuſtom of our Church in the time of Fa<g ref="char:EOLhyphen"/>mine, Peſtilence, Warr, and upon the re<g ref="char:EOLhyphen"/>ceipt of ſome ſignal mercy, <hi>&amp;c.</hi>
+            </p>
+            <p>But beſides our conſtant morning and evening Sacrifices of Prayer, there be ſeve<g ref="char:EOLhyphen"/>ral other times, wherein it highly concerns every particular perſon to make his private addreſſes to the Throne of Grace; the omiſſion of which hath certainly proved the undoing of very many, and unleſs we herein reform, as well as in the other, we have as little reaſon to expect the ſafety of our Souls, as they of their Bodies, who will ſtint
+<pb n="17" facs="tcp:171653:8"/>themſelves to Two meales a day, and will not out of thoſe times taſte any thing, though their bodies ſtand in never ſo great need.</p>
+            <p>Of theſe private Devotions, ſome may be conſtant, and ſome occaſional, the conſtant are thoſe which are to be performed every Morning as ſoon as we awake, and every Night immediately before we go to ſleep, repeating ſeriouſly, and intently in our minds either the Lord's Prayer, or ſome ſhort eja<g ref="char:EOLhyphen"/>culation befitting the ſeaſon.</p>
+            <p>Occaſional Devotions are thoſe which are to be performed upon any ſudden accident, which befalleth us, either by Night, or by Day, <hi>Viz.</hi> As ſoon as we perceive any affliction ready to befal us, or when it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come upon us.</p>
+            <p>Or preſently upon the receipt of ſome great, and unexpected mercy in mind, body, or eſtate: Or whenſoever we ſhall per<g ref="char:EOLhyphen"/>ceive the Devil putting into our minds any wicked thoughts, tempting us either directly not to fear or love God, as we ought to do; or indirectly, by perſwading us either to omit, or ſlightly to run over our daily Pray<g ref="char:EOLhyphen"/>ers, or to omitt the daily hearing, or reading of the holy Scriptures; or either not at all, or without due preparation to receive the holy Sacrament of the Lords Supper; or
+<pb n="18" facs="tcp:171653:9"/>not to honour and obey the King; or not to ſubmit our ſelves to all our Governours, Teachers, Spiritual Paſtors, and Maſters; or not to love, honour, and ſuccour our natu<g ref="char:EOLhyphen"/>ral Parents; or not to order our ſelves low<g ref="char:EOLhyphen"/>ly and reverently, to all our betters; or to neglect our duty, towards our Children, Servants, <hi>&amp;c.</hi> or to be proud, to Swear raſh<g ref="char:EOLhyphen"/>ly, Curſe, Lye, Slander, to Covet, Cheat, Steal, to be Prodigal, Wanton, Lacivious; to Eat, Drink, Sleep, or take our Pleaſure exceſſively, <hi>&amp;c.</hi>
+            </p>
+            <p>Laſtly, as ſoon as ever we are conſcious to our ſelves, that we have committed any of theſe, or the like Sins, in Thought, Word, or Deed.</p>
+            <p>And upon all theſe, or the like occaſions (to the utmoſt of our Power, uſeing all other means, or duties, which we know to be ne<g ref="char:EOLhyphen"/>ceſſary or expedient for us, without which, our devouteſt Prayers, and moſt ſervent eja<g ref="char:EOLhyphen"/>cularions may not only be unprofitable, but hurtful to us, and abominable in the ſight of God) we may either retire to ſome private Place, or Cloſer, and with an audible voice pronounce, or elſe (if that cannot conveni<g ref="char:EOLhyphen"/>ently be done) either in our Beds, or at our Tables, or in our ſhops, or whereſoever we be, we may in our minds only, devoutly, and
+<pb n="19" facs="tcp:171653:9"/>fervently rebeat only the whole Lords Prayer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any one petition of it, or any other ſmall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aculation moſt ſuitable to the occaſion, and every ſuch ejaculation (imitating our Saviour in his moſt fervent Prayer immediately be<g ref="char:EOLhyphen"/>fore he was to drink the bitter Cup of his Paſſion) we might repeate two or three times, or oftner, and at every repetition endeavour more and more to kindle, and inflame our affections.</p>
+            <p>In the Second place, Let us conſtantly hear or read the holy Scriptures with our Morning and Evening Prayers, as well in Private as Publick; wherein likewiſe we ſhould obſerve the Publick method, where we have the holy Scriptures, not only moſt excellently interwoven with our Prayers, with which we are to begin, and end our Spiritual meals, but alſo appointed to be read after a moſt exact regular manner, beſides ſeveral ſelect portions thereof, moſt properly befit<g ref="char:EOLhyphen"/>ting certain ſeaſons of the year. Among the Apocryphal Leſſons, there be very few (if any) that can be excepted againſt, but if any will not be perſwaded to read them in their Families, they may inſtead thereof read any other Leſſons, either out of the Old Teſta<g ref="char:EOLhyphen"/>ment, or Apocrypha.</p>
+            <p>If there be any among us, who do fancy,
+<pb n="20" facs="tcp:171653:10"/>that their worldly cares, and employme will in the day of Judgment ſufficiently <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cuſe them, for not ſpending daily ſo muc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time in holy Duties, as our Publick Service doth require; ſuppoſing that a little ſhort Prayer every Morning and Evening with a Sermon or two every Sunday, is as much as they do need, or God doth require o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them.</p>
+            <p>I ſhall deſire them ſeriouſly to Conſider. 1. Whether they do not daily ſpend as much, if not more time idly, if not ſinfully, than that comes to? if ſo, then let them ask their own Conſciences, whether they will not be inexcuſable in the laſt day.</p>
+            <p n="2">
+               <hi>2ly.</hi> If God doth require ſome part of every day wherein we ought ſolemnly to Worſhip him, which is conſented to both by the practice and judgment of all Nations; whether he doth not at leaſt require one hour, in twenty four, if not one hour in ſeven ac<g ref="char:EOLhyphen"/>cording to the proportion of one day in ſe<g ref="char:EOLhyphen"/>ven?</p>
+            <p n="3">
+               <hi>3ly.</hi> Whether it be not a very unreaſonable, and ungrateful thing not to allow God and our Souls an hour or two on our working<g ref="char:EOLhyphen"/>daies, whereas God alloweth us on his holy<g ref="char:EOLhyphen"/>day ſeveral hours for works of neceſſity and mercy for our bodies; and whereas by too
+<pb n="21" facs="tcp:171653:10"/>many ſad experiences we plainly ſee, that our Souls do daily ſtand in as great need of ho<g ref="char:EOLhyphen"/>ly-duties, as on Sun-daies our bodies of works of neceſſity and mercy.</p>
+            <p n="4">
+               <hi>4ly.</hi> Whether we can ſpend leſs than an hour daily in holy-duties, and whether the reading of the holy Scriptures therein, be not as neceſſary, as Prayers, ſince the Lord did ſtrictly charge <hi>Joſhua</hi> Chap. 1.8. That the book of the Law ſhould not depart out of his mouth, but he ſhould meditate therein day and night, that he might obſerve to do according to all that is written therein; Which command, (though it was given to <hi>Joſhua</hi> in particular, yet) may as certainly ob<g ref="char:EOLhyphen"/>lige all perſons in general, as that promiſe, <hi>I will never leave thee nor forſake thee</hi> (which was given to him at the ſame time <hi>Chap.</hi> 1.5.) doth belong unto all true Chriſtians, as it is applyed, by the Apoſtle, <hi>Heb.</hi> 13.5. And King <hi>David</hi> that ſweet ſinger of <hi>Iſrael</hi> in the very firſt beginning of his <hi>Pſalmes,</hi> pro<g ref="char:EOLhyphen"/>nounceth a bleſſing upon him, that walketh not in the counſel of the ungodly, <hi>&amp;c. But his delight is in the Law of the Lord, and in his Law doth meditate day and night, and he ſhall be like a tree planted by the rivers of Wa<g ref="char:EOLhyphen"/>ter, that bringeth forth his fruit in due ſea<g ref="char:EOLhyphen"/>ſon, his leaf alſo ſhall not wither, and whatſoever
+<pb n="22" facs="tcp:171653:11"/>he doth ſhall proſper;</hi> but on the other ſid<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> by way of oppoſition he calleth thoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ly, that do not <hi>meditate in the Law of God day and night,</hi> and ſheweth, that they ſhall be not partakers of thoſe bleſſings, <hi>but are like the chaff, &amp;c.</hi>
+            </p>
+            <p>And certainly, nothing more or better can be expreſſed by the tongues of Men, to perſwade, and preſs us to a conſtant reading, hearing, and meditating in the word of God, than what the Spirit of God hath ſaid by King <hi>Solomon</hi> the wiſeſt of Men, in the nine firſt Chapters of his <hi>Proverbs.</hi> There are ſe<g ref="char:EOLhyphen"/>veral other Scriptures of the like nature, which I ſhall forbear to rehearſe; theſe already alledged being ſufficient to convince any ſe<g ref="char:EOLhyphen"/>rious underſtanding Chriſtian of the neceſſity of this duty. They who ſtill perſiſt to neg<g ref="char:EOLhyphen"/>lect the daily performance thereof, ſtand more in need of our daily Prayers, than Arguments. Wherefore let all good Chriſtians pray unto God, to open their eyes, and to give them repentance, that the noble <hi>Ber<g ref="char:EOLhyphen"/>cans</hi> who ſearched the Scriptures daily, and thoſe many thouſands of <hi>Martyrs,</hi> and pious Chriſtians, which have ſet a part every Morning, and Evening as much, or more time for holy Duties, than our Publick-Service doth require: Riſe not up in Judgment
+<pb n="23" facs="tcp:171653:11"/>againſt them in that <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Tribunal <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when they ſhall be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by thoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly Scriptures, which they now ſo little <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gard, and ſeldom take notice of.</p>
+            <p>They who ſometimes have ſuch extraordi<g ref="char:EOLhyphen"/>nary occaſions, that will not permit them to ſpend ſo much time in their wonted Devo<g ref="char:EOLhyphen"/>tions, may read the Prayers with the <hi>Pſalmes,</hi> and one Chapter only; If they can't do ſo, they may with the Prayers read the <hi>Pſalmes,</hi> or one or two <hi>Pſalmes,</hi> and the Epiſtle, or Goſpel appointed for that week; but at leaſt (without inevitable neceſſity) I would have them ſeriouſly and devoutly ſay, the Lords Prayer, the Creed, and the Ten Commandments, which certainly may be done in ſo ſhort a time, that I cannot ſee how many perſons can excuſe the omiſſion thereof, except it be (as I ſaid) in caſe of inevitable neceſſity; but as ſoon as thoſe urgent occa<g ref="char:EOLhyphen"/>ſions are over, queſtionleſs, it doth become us to Redeem our holy-time by reading over thoſe Scriptures, which we then omit<g ref="char:EOLhyphen"/>ted.</p>
+            <p>As we ought to pray oftentimes, as well out of, as in our ſet ſeaſons, ſo certainly ought we at other times to read, hear, learn, teach, or meditate in the holy Scriptures; for (as St <hi>Peter</hi> ſheweth, in his ſecond Epiſtle <hi>Chap.</hi>
+               <pb n="24" facs="tcp:171653:12"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to know the Arti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be eſtabliſhed in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> truth of them, it we muſt add to our Faith Vertue, and to Vertue Knowledge, and to Knowledge Temperance, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Temperance Patience, and to Patience Godlineſs, and to Godlineſs Brotherly-kind<g ref="char:EOLhyphen"/>neſs, and to Brotherly-kindneſs Charity, that we ſhould not be barren nor fruitleſs in the knowledge of our Lord and Saviour Jeſus Chriſt. And for this end (as he ſheweth <hi>verſe</hi> 15.) It is neceſſary that we have theſe things always in remembrance, and (as he fur<g ref="char:EOLhyphen"/>ther ſheweth <hi>Chap.</hi> 3.2.) we ſhould often call to mind the Words, and Commandments of the Prophets and Apoſtles; which may be done by often repeating in our minds, either the Creed, or Ten Commandments, which are the ſumm of the Law, and the Goſpel; or ſome other ſentences of Scripture, which we find to have moſt influence upon us, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſtirr up our pure minds to perform our duty to<g ref="char:EOLhyphen"/>wards God, our ſelves, and our neighbour. Which hath been the Practice of the Saints of all ages, who almoſt in all times and pla<g ref="char:EOLhyphen"/>ces would have in their minds the Lords Pray<g ref="char:EOLhyphen"/>er, or Creed, or Ten Commandments, or ſome other portion of Scripture, which they would get by heart for that end, and that they might
+<pb n="25" facs="tcp:171653:12"/>the of the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they would<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> get the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Printed, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them in thoſe place <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their houſes, wherein they might be moſt ob<g ref="char:EOLhyphen"/>vious to their ſight. And I know no reaſon why we ſhould omit the uſe of theſe means, which they counted ſo beneficial and ne<g ref="char:EOLhyphen"/>ceſſary, to put them in remembrance of the Word of God. I am ſure, that they are a thouſand times better, than thoſe wanton, laſcivious, and prophane Pictures, and Rhyms, which do abound not only in Taverns, and Inns, but alſo in many pri<g ref="char:EOLhyphen"/>vate Houſes.</p>
+            <p>In the laſt place, let us take care, not only that the holy Sacrament of Bap<g ref="char:EOLhyphen"/>tiſm be duly obſerved, but likewiſe that we worthily receive the holy Sacrament of the Lords Supper, at leaſt as often as it is ap<g ref="char:EOLhyphen"/>pointed by Publick Authority. And in order to our due preparation for our worthy re<g ref="char:EOLhyphen"/>ceiving, I am perſwaded that there can be no better means, than ſeriouſly and diligently to read over the Communi<g ref="char:EOLhyphen"/>on Service every time before our receiv<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Thoſe who refuſe wholly to receive this Sacrament, I ſhall deſire ſeriouſly to conſi<g ref="char:EOLhyphen"/>der. 1. Whether their Conſciences do not of<g ref="char:EOLhyphen"/>tentimes
+<pb n="26" facs="tcp:171653:13"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their ab<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing doth <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> willingneſs to part with <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their worldly imployments to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pare themſelve or elſe from a loathneſs to examine, and throughly to kn<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> what ſin<g ref="char:EOLhyphen"/>ful lives they lead; and to forſake their gain<g ref="char:EOLhyphen"/>ful and pleaſant ſins, and to live according to the ſtrict, and holy rules of Chriſtianity; and if theſe be their reaſons, (as I fear they be the only reaſons even of thoſe, who pretend to abſtain from a fear of unwor<g ref="char:EOLhyphen"/>thy receiving) then let them judge whe<g ref="char:EOLhyphen"/>ther their caſe be not very ſad, and dange<g ref="char:EOLhyphen"/>rous.</p>
+            <p n="2">
+               <hi>2ly.</hi> That they who for fear of unwor<g ref="char:EOLhyphen"/>thy receiving abſtain, may as well upon the ſame account altogether leave off praying, or reading, and hearing the holy Scripture, for thoſe duties may be performed unwor<g ref="char:EOLhyphen"/>thily; neither dare I free thoſe that pray, and hear, or read the holy Scripture unwor<g ref="char:EOLhyphen"/>thily, from the puniſhment due to the un<g ref="char:EOLhyphen"/>worthy receivers of this Sacrament; and beſides, I wonder how any dare to harbour any ſuch fear, whereas God hath plainly told us, that he doth not require of us more, than we are able to do by the due, and conſtant uſe of the ordinary means, which he hath afforded us; which is, as if we ſhould tell
+<pb n="27" facs="tcp:171653:13"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> nnot do, that <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſaith we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an.</p>
+            <p n="3">
+               <hi>3l.</hi> That our Saviour doth not only <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, expreſly, (St <hi>John</hi> 6.53.) <hi>Verily, verily, I ſay unto you, except you eat the fleſh of the Son of Man, and drink his blood, you have no life in you;</hi> From whence we may plainly gather, That all Chriſtians upon the peril of loo<g ref="char:EOLhyphen"/>ſing Eternal Life, are bound to prepare themſelves ſo, as to be fit, or worthy to receive the things ſignified in the Sacra<g ref="char:EOLhyphen"/>ment, which certainly we can never do, unleſs we be worthy to receive the Signs. But our Saviour (<hi>St. Luke</hi> 22.19) doth alſo charge us to receive the Signs, adding thereunto the reaſon of his injunction, ſay<g ref="char:EOLhyphen"/>ing: <hi>Do this in Remembrance of me:</hi> Shewing, that the outward ſignes of Bread and Wine, being things obvious to our Senſes, and fit reſemblances or lively Pictures of his Body and Blood, would be very great helpe or means to bring to our memory, and to give us lively ap<g ref="char:EOLhyphen"/>prehenſions of what he had done; and ſuffered for us: and how can any perſons pretend to keep from this Sacrament through tenderneſs of Conſcience, or fear of offending God by unworthy receiving, ſeeing they make no Conſcience of break<g ref="char:EOLhyphen"/>ing
+<pb n="28" facs="tcp:171653:14"/>in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Saviours expreſs Command, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the uſe of thoſe mear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which he thought neceſſary for our Spiritual eating and drinking his Body, and Blood, which he hath enjoyned us to do, upon peril of looſing Eternal Salva<g ref="char:EOLhyphen"/>tion?</p>
+            <p n="4">
+               <hi>4ly.</hi> That in the Sacrament of the Lords Supper, we renew our Baptiſmal Cove<g ref="char:EOLhyphen"/>nant, which by our Actual Sins we have broken, and by refuſing to renew it in this Sacrament, we do, as it were, wholly renounce it, and ſo forfeit all the Pri<g ref="char:EOLhyphen"/>viledges of a Chriſtian in this World, he World to come.</p>
+            <p>
+               <hi>Finally,</hi> I ſhall earneſtly requeſt all <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Subjects ſeriouſly to Conſider, whe<g ref="char:EOLhyphen"/>ther they do not eat and drink Damnati<g ref="char:EOLhyphen"/>on to themſelves, that receive this Sacra<g ref="char:EOLhyphen"/>ment after any manner contrary to our Soveraign's lawful command, ſeeing that in their very manner of receiving it, they commit the ſin of diſobedience to their Governours, which certainly will render them unworthy Communicants.</p>
+            <p>And if ſo, then aſſuredly it muſt needs be the ſafeſt way, (eſpecially, for tender Conſciences) to receive it after the man<g ref="char:EOLhyphen"/>ner appointed by Publick Authority, it
+<pb n="29" facs="tcp:171653:14"/>being cer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain, that there i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nothing there<g ref="char:EOLhyphen"/>in required Contrary <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of God.</p>
+            <p>
+               <hi>Glory be to the Father, and to the S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and to the Holy Ghoſt,</hi>
+            </p>
+            <p>
+               <hi>As it was in the beginning; is now, and ever ſhall be, world without end,</hi>
+            </p>
+            <p>AMEN.</p>
+            <closer>
+               <date>Feb. 11. 1669.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
